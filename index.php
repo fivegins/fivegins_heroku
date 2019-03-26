@@ -38,7 +38,7 @@ $posts = json_decode(file_get_contents("json.txt"), true);
 <body>
 <h1>1400 EPUB</h1>
 <h2>fivegins@Bạch Ngọc Sách</h2>
-<h3>Crl+F hoặc tìm trong trang trên điện thoại để tìm kiếm truyện</h3>
+<pre><font color="red">Crl+F hoặc tìm trong trang trên điện thoại để tìm kiếm truyện</font></pre>
 <table id="customers">
   <tr>
     <th>ID</th>
