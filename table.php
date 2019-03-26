@@ -38,11 +38,11 @@ $posts = json_decode(file_get_contents("json.txt"), true);
 
 <table id="customers">
   <tr>
-    <th>id</th>
-    <th>ten</th>
-    <th>tacgia</th>
-    <th>theloai</th>
-    <th>url</th>
+    <th>ID</th>
+    <th>Tên</th>
+    <th>Tác giả</th>
+    <th>Thể loại</th>
+    <th>Tải về</th>
   </tr>
   <?php
   foreach ($posts as $post) {
