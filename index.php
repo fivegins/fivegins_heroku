@@ -5,6 +5,7 @@ $posts = json_decode(file_get_contents("json.txt"), true);
 <html>
 <head>
 <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
+<title>1400 epub miễn phí của Bạch Ngọc Sách</title>
 <style>
 #customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -35,7 +36,10 @@ $posts = json_decode(file_get_contents("json.txt"), true);
 </style>
 </head>
 <body>
-
+<h1>1400 EPUB</h1>
+<h2>fivegins@Bạch Ngọc Sách</h2>
+<p>tải file data json <a href="json.txt">tại đây</a></p>
+<p>nguồn: <a href="https://bachngocsach.com/reader/truyen/hoan-thanh">https://bachngocsach.com/reader/truyen/hoan-thanh</a></p>
 <table id="customers">
   <tr>
     <th>ID</th>
