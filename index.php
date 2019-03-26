@@ -38,8 +38,7 @@ $posts = json_decode(file_get_contents("json.txt"), true);
 <body>
 <h1>1400 EPUB</h1>
 <h2>fivegins@Bạch Ngọc Sách</h2>
-<p>tải file data json <a href="json.txt">tại đây</a></p>
-<p>nguồn: <a href="https://bachngocsach.com/reader/truyen/hoan-thanh">https://bachngocsach.com/reader/truyen/hoan-thanh</a></p>
+<h3>Crl+F hoặc tìm trong trang trên điện thoại để tìm kiếm truyện</h3>
 <table id="customers">
   <tr>
     <th>ID</th>
